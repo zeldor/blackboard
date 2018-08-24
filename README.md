@@ -25,7 +25,7 @@ to the folder USER_HOME/.BlackBoard
 
 ## Installing
 
-    $ git clone git@github.com:mpue/blackboard.git
+    $ git clone https://github.com/mpue/blackboard.git
     $ cd blackboard
     $ ant 
     $ cp -R models ~/.BlackBoard
